@@ -34,10 +34,6 @@ In your HTML and CSS, add these elements. If you want, check out this site to
 browse popular color palettes for your design: https://coolors.co/palettes/popular 
 (use #color-code so #2a9d8f for example)
 
-This is a good time to fulfill the "at least one CSS media query" requirement. Make
-some CSS rule that changes the look of the page (font size?) at some screen width break 
-point.
-
 Additionally, if you'd like to use Bootstrap to style your buttons and such
 (recommended), add the Bootstrap CSS / JS to the `<head>` of your `index.html`.
 
